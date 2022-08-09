@@ -10,8 +10,8 @@ global.APIs = {
 global.owner = ['6281257170601']
 global.premium = ['6281257170601']
 global.youtube = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
-global.ownername = 'VinnGanzz'
-global.botname ='Vinn-Bot'
+global.ownername = 'Vinn Ganzz'
+global.botname ='Vinn Bot'
 global.donasi = {
     saweria: 'Kaga Punya',
     nomor: '081257170601'
